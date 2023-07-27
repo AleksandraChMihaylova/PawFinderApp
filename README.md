@@ -1,5 +1,7 @@
 # PawFinderApp
 This is a Web App that I worked on during the first 3 months of my Blankfactor internship.  
+<img width="1094" alt="Screenshot 2023-07-27 at 13 35 34" src="https://github.com/weiiwoo/PawFinderApp/assets/125216405/c8a96c3b-1c4f-490a-b3a1-29f4869c5a33">
+
 <img width="1512" alt="Screenshot 2023-07-26 at 13 41 34" src="https://github.com/weiiwoo/PawFinderApp/assets/125216405/5a159ce4-89f8-424a-865e-e748846a6e8d">
 <img width="1512" alt="Screenshot 2023-07-26 at 13 42 01" src="https://github.com/weiiwoo/PawFinderApp/assets/125216405/1f445d1b-b490-4326-b234-15f267c3dd0f">
 <img width="1512" alt="Screenshot 2023-07-26 at 13 42 07" src="https://github.com/weiiwoo/PawFinderApp/assets/125216405/3a7d0bbd-b9fd-4a75-8516-c2e3a769b684">
